@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![https://i.imgur.com/BKpZraS.png][https://i.imgur.com/BKpZraS.png]](https://sitaxis.com)
+![Website preview](https://i.imgur.com/BKpZraS.png)
 
 This website is built with html and css, no dependencies.
 
