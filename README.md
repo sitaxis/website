@@ -16,12 +16,10 @@
   <h3 align="center">website</h3>
 
   <p align="center">
-    Website of the sitaxis organization.
+    Sitaxis organization's landing page on the web.
     <br />
-    <a href="https://sitaxis.com" target="_blank"><strong>Open in a new tab »</strong></a>
+    <a href="https://sitaxis.com" target="_blank"><strong>Preview »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/sitaxis/website/issues">Report Bug</a>
   </p>
 </p>
 
@@ -32,7 +30,6 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -43,22 +40,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Website Screen Shot][https://i.imgur.com/BKpZraS.png]](https://sitaxis.com)
 
-TODO
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+This website is built with html and css, no dependencies.
 
 
 
